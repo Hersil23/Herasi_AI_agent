@@ -26,8 +26,8 @@ def install_dependencies():
             'install', 
             '-r', 
             requirements_path,
-            '--user'  # Instalar en el directorio del usuario
         ])
+    
         
         print("\n✅ ¡Dependencias instaladas exitosamente!")
         
