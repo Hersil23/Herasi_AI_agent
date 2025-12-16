@@ -26,7 +26,7 @@ def install_dependencies():
             'install', 
             '-r', 
             requirements_path,
-        ])
+         ])
     
         
         print("\n✅ ¡Dependencias instaladas exitosamente!")
