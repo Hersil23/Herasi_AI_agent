@@ -1,0 +1,20 @@
+# Entorno virtual
+venv/
+env/
+ENV/
+
+# Variables de entorno (IMPORTANTE - no subir al repositorio)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
